@@ -61,28 +61,10 @@
                         supplemented by volunteers from around the world.
                     </p>
 
-                    <p>There are various ways of using this dictionary. First of all you
-                        can consult it on-line from this site. Some other sites, such as
-                        <a href="http://dicoweb.gnu.org.ua/?server=gnu.org.ua&amp;db=gcide">dicoweb</a>,
-                        provide a similar facility.</p>
-
-                    <p>You can also use the dictionary offline. To do
-                        so, <a href="#download">download</a> and unpack its copy and use
-                        the <a href="http://dico.gnu.org.ua/gcider.html">gcider</a> utility.</p>
-
-                    <p>The complete text of the dictionary corpus along with accompanying
-                        ancillary files is <a href="#download">available for download</a>
-                        from GNU ftp site or any of its mirrors around the world.</p>
-
-                    <p>For development sources, issue trackers, and other information,
-                        please see the <b>GCIDE</b> <a href="http://savannah.gnu.org/projects/gcide/">
-                            project page</a>.
+                    <p>I create this simple dictionary according to guide from this website
+                        <a href="http://gcide.gnu.org.ua/">gcide</a>. This is just for fun project where I am able to try some new
+                        technology such as Yona CMS.
                     </p>
-
-
-                    <p><b>This PHP source code si dictionary</b> is maintained by Phan Vu Giap. If you have any suggestions, feel free
-                        to <a href="mailto:giapps --AT-- gmail.com">contact me</a>.</p>
-
 
                 </div>
             </div>
@@ -96,8 +78,7 @@
             <div class="col-lg-12 centered">
                 <h1>Download</h1>
                 <p>
-                    You can download whole source code of this project here
-                    <a href="#linkedtoggihub">git download</a>
+                    You can download whole source code of this project <a href="https://github.com/giapps/gcide">on Github</a>
                 </p>
             </div>
         </div>
