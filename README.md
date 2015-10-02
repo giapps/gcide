@@ -5,5 +5,8 @@ I built this app using  [YonaCMS](http://yonacms.com), a CMS built on  [PHP Phal
 For frontend, I used a theme design by [BlackTie.co](http://BlackTie.co) 
 Nice pacman ajax loading icon, I used [Load Awesome v1.1.0] (http://github.danielcardoso.net/load-awesome/)
 
-##Installation
+##Installing via GitHub
 
+<pre>
+    <code>git clone https://github.com/giapps/gcide</code>
+</pre>
